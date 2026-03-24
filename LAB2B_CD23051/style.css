@@ -1,0 +1,33 @@
+	body {
+		font-family: Arial, sans-serif;
+		margin: 0;
+	}
+
+	/* Header Image */
+	.header {
+		background-image: url("bg-header.jpg");
+		height: 120px;
+		background-size: cover;
+		background-position: center;
+	}
+
+	/* Content */
+	.content {
+		width: 700px;
+		margin: 20px auto;
+	}
+
+	/* h1 styling */
+	h1 {
+		color: green;
+		font-family: Arial, sans-serif;
+	}
+
+	/* Footer Image */
+	.footer {
+		background-image: url("bg-footer.jpg");
+		height: 120px;
+		background-size: cover;
+		background-position: center;
+		margin-top: 20px;
+	}
